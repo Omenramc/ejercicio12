@@ -2,4 +2,4 @@
 
 * Wario
 * Waluigi
-* mario verde
+* capitan guarniz
