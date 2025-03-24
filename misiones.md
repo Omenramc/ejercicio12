@@ -1,3 +1,4 @@
 # Misiones
 
-*investigar los planes de alguien
+* investigar los planes de alguien
+* capturar a fulanito
